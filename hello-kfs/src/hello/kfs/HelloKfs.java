@@ -18,6 +18,9 @@ public class HelloKfs {
     public static void main(String[] args) {
         System.out.println("Hello World KFS");
         // TODO code application logic here
+        /*HelloGUI hello2 = new HelloGUI();
+        hello2.greetThem();
+                */
     }
     
 }
